@@ -1,7 +1,3 @@
-//
-// Created by Junchengji on 11/10/2025.
-//
-
 #ifndef COLORLOG_UNIQUE_PTR_H
 #define COLORLOG_UNIQUE_PTR_H
 #include <utility>
